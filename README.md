@@ -1,0 +1,2 @@
+# qanaqadir_bot
+bilmiman
